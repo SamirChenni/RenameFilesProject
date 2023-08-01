@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\bin\Release\RenameFiles.exe.config
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\bin\Release\RenameFiles.exe
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\bin\Release\RenameFiles.pdb
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\MainWindow.g.cs
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\App.g.cs
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles_MarkupCompile.cache
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles_MarkupCompile.lref
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\App.baml
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\MainWindow.baml
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.g.resources
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.Properties.Resources.resources
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.exe
+C:\Users\PC\Desktop\RenameFiles\RenameFiles\obj\Release\RenameFiles.pdb
